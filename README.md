@@ -6,7 +6,6 @@ If you do use our blog or GitHub repos to create your own web or mobile app, we 
 >Pattaniyil, Nidhin and Shaikh, Reshama, [Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/), 2019
 
 
-This project was completed jointly by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).
 
 The following were used for model **training** (see [requirements.txt](requirements.txt)):    
 - fastai:  version 1.0.42
